@@ -1,0 +1,4 @@
+{"id":"single-word","input":"hello","expected":"HELLO"}
+{"id":"two-words","input":"hello world","expected":"HELLO WORLD"}
+{"id":"normalized-space","input":"open   source","expected":"OPEN SOURCE","match":"equivalent"}
+
